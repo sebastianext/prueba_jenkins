@@ -4,7 +4,7 @@
 >
     <testsuites>
         <testsuite name="Application Test Suite">
-            <directory>../../test/</directory>
+            <directory>test/test.php</directory>
         </testsuite>
     </testsuites>
     
