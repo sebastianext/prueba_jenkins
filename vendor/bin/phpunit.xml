@@ -1,6 +1,6 @@
 <phpunit backupGlobals="false"
          backupStaticAttributes="false"
-         bootstrap="bootstrap\autoload.php"
+         bootstrap="..\..\test\"
          colors="true"
          convertErrorsToExceptions="true"
          convertNoticesToExceptions="true"
